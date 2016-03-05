@@ -1,0 +1,40 @@
+ὁ ELEMENTA GEOMETRIAEt
+
+Operatio secunda motus intuitiva.
+
+ΙΙ, Quaestio fit: nuni inoto inobiii aliquid ex eo quiescere possit?
+Num possit unum punctum quiescere, et duntaxat unum? num duo aut
+pium? et tum complexus omnis sub motu quiescentis qualisnam sit?
+qualis esse nequeat?
+
+Quoad primum intuitus ostendit quodvis M, in qnod p cadit, innu-
+merabilibus viis posse circa p moveri, ita etiam, ut quodvis punctum α
+in M cadens (a p diversum] redeat.
+
+Hinc passus ad omne parit superficiem sphaerae, nempe complexum
+omnis eiusmodi puncti b, ut p*czssp*b.
+
+Intuitus ostendit:
+
+L Complexuni hunc esse superficiem, per quain spatium in duas por-
+tiones dispescitur, unam cum puncto p interno undique clausam, et alte*
+rain circumcirca in infinitum exclusam, ipsam vero esse finem utriusque
+communem*
+
+21 Nullum punctum posse ex una portione in aliam venire, nisi per
+finem communem transeat: quod deinde extenditur ad quasvis duas
+portiones continui alicuius finem communem habentibus, sz'puslctum
+in eodem conlinuo moveri oporteat,
+
+Potest sphaera dicta dici sphaera punctio, centro μς atque puncta
+superficiei a centro aequaliter distantia dici possunt, distantia puncti
+p ab α per (1η) expressa {sensu pag⁴ 3⁴)
+
+Complexuin punctorum oninium a centro aequaliter distantium super>
+ficiem esse, si non ipsum pro axioinate adsumatur, probari quoque po-
+test: nempe si quid portionis spatii complectatur, id circumcirca adesse
+debet, et quidem siue ulla prominentia, quum id item ubique circum-
+circa fieri deberet; itaque duae superficies essent exterior interiorque,
+centrum undique punctis omnibus aequidistantibus claudentes ς quas diver-
+sas esse non posse item intuitu patet*
+

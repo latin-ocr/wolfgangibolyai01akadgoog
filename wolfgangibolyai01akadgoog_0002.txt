@@ -1,0 +1,57 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Graduate Library
+University of Michigan
+
+Preservafion Office
+
+Storage Number:
+
+ACA7836
+
+ULFMTB RT a BL mTlC DT 07J18s88 RsDT 07s18s88 CC STAT mm EsL 1
+
+010: 2 Ι a 41032871ss184
+
+035 s 1: : 1 a (RLIN)M1UG86-B110886
+
+oa5s2: : la <Ca0TULAs)160330417
+
+040: : {a DLClICU lc ICU ldMiU
+
+050s1:0: {a QA36 lb ,ΒΘ
+
+082s1202 1a51o
+
+10011 ε {a Bolyai, Fan-kas! ld 1775-1856.
+
+245100: Ι a Woifgangi Bolyai de Bolya Tentamen iuventutem studiosam in elementa
+matheseos purae elementaris ac sublimioris methodo intuitiva evidenuaque huic
+propria introducendi, lb cum appendice triplici.
+
+250: 2 {a Ed. 2
+
+260: 2 Ι a Budapestinil {b sumptibus Academiae scientiarum hungaricae! {c 1897-
+1904.
+
+300s1: : {a 2 v. Ι b incl. front. (port.) plates (diagrs.) and Ι e atlas of
+diagrs. Ι c 30cm.
+
+50οί 1: 1 Ι a With reproduction of original title-pages.
+
+505s220 ε {a Ι. Conspectus arithmeticae generalis. Mandato Academiae scientiarum
+hungaricae suis adnotationibus adiectis ediderunt Julius Konig et Mauritius
+Rethys-ss. Elementa geomem‘ae et appendices ediderunt Josephus Kiirschakl
+
+Scanned by Imagenes Digitales
+Nogales, AZ
+
+On behalf of
+Preservation Division
+The University of Michigan Libraries
+
+Date work Begam
+Camera Operatur:
+
+ 
+

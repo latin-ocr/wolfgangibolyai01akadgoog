@@ -1,0 +1,39 @@
+14 ELEMENTA GEOMETRIAR
+
+habentibus, in sectione praecedente ob oculos habitis, facile cogitatur
+rectam pp cirea p moveri, et formam viae eius considerare: inter vias
+eins possibiies occurit etiam via rectae pp circa p porro ita motae ut
+redeat⁴ Via talis aut erit in piano eodem tota, aut non.
+
+1. Si prius: tum via cuiusvis puncti praeter p vocatur circulus, et
+pars quaevis continua eius, perimetruni intelligendo, dicitur arnus, recta
+vero quae a p usque ad punctum est, de cuius via serino est, radim,
+p centrum, et recta ab uno periluetri puncto ad aliud chorda, et si baec
+per centrum eat diameter, pars plani inter arcum et chordam eius com-
+prehensa segmentum, illa vero quae inter areum et radios per extremi-
+tates arcus ductos est, sector dicuntur.
+
+Si vero gFig. 3.) punctum ab α incipiendo in peripheria semper porro
+moveatur usque ad quodvis punctum f, et vizi v eius accipiatur positiva,
+si via supra diametrum ab (quae primaria dicatur) incipiat, et negativa,
+si via infra ab incipian atque partes diametri dietae e centro versus α
+positive versus b negative, et perpendiculares ad ab supra ab positive
+infra ab negative accipiantur: dicitur distantia sm puncti P ab ab [id est
+perpendicularis ex f nd diametrum primariams sinus viae dictae v ab α
+usque ad f, sive positive sive negative facta fuerit via, imo etsi punctum
+dictum semper porro motum quotiesvis iterun] in a pervenerit, dummodo
+deinum in f subsistat. Distantia cm centri vero a sinu vocatur casinus ipsius v,
+distantia cim initii α autem ab eodem sinu sz'nusversus zpsz‘us v audit,
+ἐξὲξ autem pro radio ΖΙ dicitur tangens ipsius v, et βῶξ-ἶ secans
+audit. Complementum ipsius v dieitur talis arcus α, ut u—t-v: quadranti q,
+si ex. gr, v 2 3q, erit α ἶ »-12q⁴ Insignitur autem sin. α, tang. α,
+sin. vers, a, sec. α nomine eodem relato ad v, nonnisi syllaba co praeposita,
+nempe dicitur cosmus v, cotangem v, casinus versus v 05, quasi dice-
+retur complemantz'sz'nus &; ut facile patebit et cosinus definitionem pri-
+orem cum hac convenire, uti et sinum versum dici potuisse 1—cos.;
+atque suo loco omnes has functiones trzgrmmmetm‘cas dietas geometrice
+exhiberi. Nomen sinus inde exortum est, quod semissis chordae arcus
+dupli per s, ins. (idest semissis inscriptam scribebatur.
+
+2- Si non sit via rectae prius dicta in eodem piano: tuin facile cogi-
+

@@ -1,0 +1,47 @@
+94 ELEMENTA GEOMETRIAE.
+
+2. At tria latera sufficiunt, nisi sit aliquod cmnvexnm et illi res-
+pondens concavum,
+
+3. Ila duo anguli et unum latus adiacens.
+
+4. lma tres anguli qnoque ponunt triangulorum horum aequali-
+tatem, sed duo nun.
+
+Cum casus reliqui sint faciliores, ultimum tamum referre libet.
+
+At sequens prius demonstrandum est *Fig 1000. Peripheria centri α
+radii pu dicatur a, peripheria centri Ι] radii lya vero Α, peripheria radii
+[pp autem dicatur H,
+
+Utcunque secet α {fisum H ad angulum Z, omne punctum peri-
+phariae Α tale est, nt circulus ex eo tauquam centro scriptus cum
+radio up, plane ad angulum Z secet ipsum H; nullum vero exlra
+perz'pherz‘am A tale pimenem q datur, ut arcus radii ap perzsslwri'izm
+H ud angulum z secat.
+
+Prius (Tom, I. pag⁴ 12, V.J patet; sed nec ullum tale punctum q esti
+
+Nam sive intra A sive extra sity recta q'h transit per A; fiat in C,
+et sit q extra Α; radius pro centro utroque c et q sit zap, terminabi-
+tur uterque in ἧς] in duobus diversis punctis m et r.
+
+Fiant centro c radio cm et centro q radio qr circuli; neuter horum
+potest tangere ipsum H, quia si unus tanget (extus aut intus, ex⁴ gr.
+exuis, et alter extus tangeret, si ex q et c descripti circuli circulum H
+ad angulum ipsi z aequalem seearent; tum vero quia taetus punctum in
+[pq esse debet, radii inaequales fierem aequales.
+
+Itaque secaret ipsum H uterque in duobus punctis, unus in H, alter
+in ”li et quidem ita ut si f ultra υ cadat, et Ι plane ita ultra ί cadere,
+et si P in υ eadit, [ in i cadere debeat.
+
+Neutrum vero fieri potest. Nam quum hoe pacto esset angulus
+mfoxrvo, et per angulum unum ponatur aequalitas figurae e duobus
+arcubus compositae (pag. 901y esset finonfzvrom adeoque l? et Ι non
+possunt non in υ et i cadere: at neque in v et i possunt, quia tum m
+cum ι’ coincideret, quia per angulum l¹=n non posset m e peripheria
+vri egredi,
+
+Si q intus A cadat demonstratio eadem esti Itaque assertum patet.
+

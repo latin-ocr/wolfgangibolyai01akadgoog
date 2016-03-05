@@ -1,0 +1,40 @@
+46 ELEMENTA GEOMETRiAE.
+
+tas complectitur: concipiatur abscissa a 0 usque ad R crescensy omnes
+vale-res cogitabiles ipsius u (a ο exclusive usque ad rectum inclusivei
+exhibens; et erigatur a fine cuiusvis abscissaey ordinata f(ul pro illo va-
+lore ipsius n, atque pro nzle fiat ordinata valori illi aequalis, quem
+expressio pro qu capit.
+
+Quum autem omnes istae expressiones quantitatum, in toto spatio a
+quantitate ipsius u dependentium, cum reliquis axiomatibus ‘aeque sub-
+sistant, quicunque innumerabilium valorum dictorum substituantur ipsi u:
+ex iisdem axiomatibus quantitas ipsius u determinari nequit.
+
+IV* Nihilominus tamen quaestio suboritur: quidsi novum axioma de*
+tur7 per quod determinetur u? tentamina idcirco quae olim feceram, bre·
+viter exponenda veniunt, ne saltem alius quis operam eandem perdat*
+
+Distinxeram ea, e quibus Axioma undecimum Euclidis demonstrari,
+adeoque theoria parallelarum Euolidea stabiliri posset, in axiomata ritus,
+iu quantitatz'va, et intervalli, atque sz'tnz'lz'ludz'nz's.
+
+Ῑ4 Axiomata situs.
+
+1. Summa duorum internorumy quas rectae in plani eiusdem plaga
+eadem ad rectam positae faciunt, utcunque haec crescat, nequit continuo
+decrescendo Omni (labili minor fieri, nisi eae se invicem secent⁴
+
+2. Si (XFig. 24³ a z non capitur y, neque a 24⁷) capitur y4v, Haec
+est axiomatis Enclidei tertia pars, nempe eadem summa ad fines eiusdem
+rectae aliter partita.
+
+3, (Εἰς, 23* Si C ante finem temporis t dabilem quamvis portionem
+spatii universi utvis infinitam (dummodo nullum punctum rectae quae post
+ci ad dextram est incidat) complectatur, et ad finem temporis t fiat C
+ipsum spatium universum: id, quod e spatio praeter C est, ante finem
+temporis t, semper illi C, quod tunc est, absolute aequale complecti ne-
+quit. Duo spatia hoc pacto quaquaversum infinita, nullo puncto praeter
+dimidiam rectam excluso, prodire videntur; nisi XI axioma Euclidis ve-
+rurn sit *ut infra videbitur).
+

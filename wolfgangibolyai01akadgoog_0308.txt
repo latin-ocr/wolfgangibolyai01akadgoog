@@ -1,0 +1,44 @@
+242 ELEMENTA GEOMETRIAE.
+
+Scholion 2. Potest etiam quodvis corpus planis rectilineis clausum in
+pyramides rectilineas [euti figura rectilinea in triangula] dispesci ; et summa
+pyramidum erit soliditas totius.
+
+Scholion 3. Superficies pyramidis rectilineae manifesto est summa
+triangulorum latera pyramidis constituentium, basi addita.
+
+Sed quaestiones oriuntur:
+
+i. quomodo perpendicularis ex apice demissae quantitate locoque
+atque basi ΗΒΕ pyramidis triangularis, cuius apex p est, datis, latera
+innotescant, ut etiarn rete construi queat⁴
+
+2. Si nonnisi basis ΞΙΒΕγ recta 211.) et angulus solidus ad 21 detur:
+inde altitudinem et latera reperire.
+
+I⁴ Quoad primum: sit (fig. 22οᾸ p apex pyramidis, cuius basis 2123OE
+est, et perpendicularis ex p ad planum baseos sit pp ς erit pp perpendicu-
+laris ad p'ZI, pB, pOE; atque in triangulis rectangulis 2Ipp, OEpp, Bpp
+e cathetis hypotenusae innotescunt, nempe ex Ἀρ, pp prodit hypotenusa
+Hp, ex Bp et pp prodit Bp, et ex ΕΩ et pp prodit [ρ. Ε trianguli
+Hp& lateribus autem innotescit y, atque e triangulo Hpq ad q rectari*
+gulo prodit pq, et in triangulo ppt] ad p rectangulo prodit etiam an-
+gulus, quem pq cum qp, id est planum ³³21& cum plano 2185, facit.
+
+ΙΙ. Quoad secundum (Fig, 2202] si praeter basim 218OE nonnisi 21p et
+angulus solidus ad 21 detur, nempe Apllsszv, et ΛΕΞᾸΒ sit H, atque
+ΛΒΞΙΡ sit a: dicatur u angulus, quein planum Ἀρί cum basi facit,
+Concipiatur angulus solidus ad 2111] centrum sphaerae poni; per angulos
+τ, μ’, α, ad verticem 21 datos, latera trianguli sphaerici onmia data eruut,
+unde prodit u (per inferius dicenda).
+
+Demissa tum ex p in plano 21OEp perpendiculari pq ad 215, in triangulo
+Hpq ad q rectangulo ex 213> et 7) prodit pq <simo etiam Uq); atque hine in
+triangulo ad p rectangulo pqp, ex pq et angulo u planorum Ἀρί et 1123&
+prodit cathetus nempe perpendicularis quaesita pp, et prodit etiam pq.
+
+Latus ΡΒ trianguli 2lp23 autem prodit itat ex ΞΜ et pq, quae antea
+prodierant, in triangulo rectangulo Qiqp prodit 7 et Qp, atque in tri-
+angulo 9218 ex angulo y—l-sff et lateribus Hp et 213 prodit 9& atque
+hinc in triangulo ad p rectangulo pp& e cathetis pp, ΩΒ prodit ΡΒ,
+

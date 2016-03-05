@@ -1,0 +1,40 @@
+140 ELEMENTA GEOMETRIAR
+
+Scholion 1. Omnia haec autem ope logarithmorum iper Tom. Ι. pag. 1091x
+facilius absolvi possunt, Ex, gr. (ex 2⁴4¹* est
+
+tang. a Ξ ἓν,
+adeoque
+log. tang. a z log. A — log. B.
+At notandum est hoc pro radio 1 esse, et pro radio r esse
+
+tang. cz Ξ Ῑὶξκ,
+adeoque
+
+log. tang⁴ a z log, r—l- log. A —log.B:10—4—log.A — log. B,
+
+si pro r radius tabularis (nempe 1 cum 10 cifris) aecipiatun
+
+Scholion 2, Quaevis expressio E fuerit, in qua functiones trigono-
+metricae pro radio 1 (non pro radio tabulari ν) acceptae sunty atque sit
+E: Q, denotante Q sive functionem aliquam trigonometricam item pro
+radio Ι, sive latus, aut quidvis aliud3 omnia modo sequente ita mutari
+poterunt, ut quaevis functio trigonometrieu pro radio tabulari r accipi
+tractarique possit, Sit prius casus simplicior, dum iu nullo ipsius Eter-
+mino dividendus aut divisor quantitas complexa est, nec functio trigono-
+metrica signo radicali subest, Distingualnr quaevis functio trigono-
+metz'z'ca pra radio 1 ab eadem per r mullifilz'cata per id, quod prior
+litera minuscula, posterior maiore incipiat, ita ut cos. α sit pro radio 1y
+Cos. α vero sit :reos α, adeoque cosmus tabularis ipsius α.
+
+In quovis termino ipsius E quaelibet functio trigonometrica multi-
+plicetur per illam potentiam ipsius r, ad quam ipsa ibidem elevata est,
+exi gri e cos3u fiat γα εοεῗαῐῦοεῖ ιη et quicunque terminus hoc pacto
+per ΓΜ esset multiplicatus pro m positivo et non 0y is per rm multi-
+plicetur; atque si tum in nullo ipsius E termino ν’ ut faetor accesserit
+pro n positivo et non ο, tom expressio multiplicetur per r, ut fiat eius
+valor :rQ Si vero in termino ipsius E aliquo r>n prodierit pro ,ιι po-
+sitivo et non 0, nec in ullo termino suerit exponens ipsius r maior:
+quilibet terminus, in quo ss est, pro 7s sive 0 sive positivo et non 0y
+multiplicetur per r¹⁴'·'; ut fiat expressio :ss Q.
+

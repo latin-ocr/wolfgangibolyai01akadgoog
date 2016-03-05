@@ -1,0 +1,39 @@
+SEC'HO QUARTA. 247
+
+2lnx=2r⁷1
+sit5 erit
+[χεν et x:{›
+Si vero l et x data fuerint, erit νῑίκ, atque ex l et ν prodit zi.
+
+Potest etiam rete pro cylindro basi qualivis datae ad quemvis angur
+lum insistente, saltem per puncta utvis propinqua construi; et idem de
+cono valet3 neque proprie sensu geometrico praecisum sensui-n sive
+recta in curvam, sive planum in superficiem curvam flexa habent, nisi
+id per motum circa puncta illius, vel rectas huius ad intervalla fiat, atque
+resultatorum limites geometrici accipiantur.
+
+Ex, gr. Sit basi circulari superstruemus cylinder aut conus talis, ut
+cum basi inferiore, in cylindro recta basium centra iungens, et iu cono
+recta e centro baseos ad apicem, faciant certum angulum datum, aui
+in utroque sit basis ellipsis, cuius centrum c sit, atque angulus, quem in
+cylindro recta per centra baseos, in cono recta ex apice ad centrum,
+cum basi facit, dato angulo aequalis sit.
+
+Potest cuivis curvae, [qualiscunque fuerit), linea polygonalis inscribi,
+atque sive prisma sive pyramis fuerit. potest iu triangularia dividi, que>
+rum bases latera lineae polygonalis dictae sint, atque applicatis iis,
+quae ³pagt 242l dicta sunt, rete quantolibet exactius construi, imo etiarn
+limes geometricus baseos in plano quaeri, tarn in prismate, si paralr
+lelogramma laterum basi insistentium aequalium, uti se invicem exci-
+piunt, iungantur, quarn in pyramide triangula, uti se invicem apice com-
+muni excipiunt, iungantur, Parallelepipedi recti rete (exclusis basibusi
+constabit e quatuor rectangulis eidem rectae insistentibus, quia latera
+parallelogrammorum coincidentia eum basibus angulos rectos adeoque
+tales angulos deinceps positos efficiunt, qui simul duos rectos exaequant.
+Ubi vero hoc neque per limitem locum habet, parallelogramma in pris-
+mate, triangula in pyramide ita poni debent, uti se invicem excipiendo
+prodeunt, et ubi locum habet, limes geometricus quaerendus est.
+
+Est quoque, ut inferius patebit, cylinder obliquus circulo insistens
+nonnisi cylinder rectus ellipsi insistens, ad certum angulum oblique sectus,
+

@@ -1,0 +1,41 @@
+218 ELEMENTA GEOMETRIAE,
+
+In aequatione generali liueae ordinis n2ti sunt *pag 1491 termini numero
+(ιι-Η) (aad)
+ο
+
+Sint *Fig loq] puncta data 21, Β, Ε, ⁴ , ,3 ducatur linea abscissaruiu
+quaecunque KQ, et sit νε origo abscissurum, demittantur ex 21, Β, ί, . .,
+
+, quorum primus constans sine ulla variabili est,
+
+perpendiculares Α, Β, Ο, . ,, tanquan} ordinatae respondentes abscissis
+α, h, σ, . . .; substituatur prius in aequatione generali ubicunque a ab-
+scissae t et Α ordinatae u, dein in eadem priore aequatione generali
+substituatur ubique b abscissae t et B ordinatae u, tum substituatur item
+in aequatione generali c abscissae l et C ordinatae u, et ita porr0; donec
+tot aequationes gradus primi prodeant, quot puncta data et quot eon-
+stantes quaerendae sunt; itaque constantes ex iis deterniinantur; et linea
+pro constantibus repertis iu aequationem positisy erit gradus n>ti per data
+puncta transiens,
+
+Potest etiam constans variabili destituta Ξῖ poni, et reliquae con-
+stantes quoad eam exprimi,
+
+Neque autem ulla alia linea n-ti ordinis per eadem puncta transit.
+Nam si alia linea L esset per eadem puncta transiens: reducta ad lineam
+abscissaruin priorem et idem abscissarum initiumy quod prius erat, modo
+dicto aequatio generalis easdem aequationes pro constantibus reperiendis,
+easdemque constantes, adeoque eandem lineae L aequationem praebebit.
+
+8. Si lineae nrti ordinis aequatio sit Fix‚y]=0 pro abscissa x et ordi—
+nata yy atque pro iisdem abscissis et ordinata u sit lineae m-ti ordinis
+aequatio fix, aizo: pro omni casu. ubi lineae hae se invicem secant,
+uzy esse oportet; adeoque pro illo x debet Fix,y)=0:f[x,u'1 esse,
+
+Probari autem potesty eliminato y aequationem nonnisi ad gradum
+mn assurgere; adeoque haud dari posse plures eiusmodi valeres ipsius x,
+pro quibus uzy fiat7 adeoque lineae dictae se invicem secent; quanquam
+non dicatur in tot punctis secare posse* Sed instituti ratio transire ad
+numerum '3 iubet.
+

@@ -1,0 +1,41 @@
+30 ELEMENTA GEOMETRIAE.
+
+ctum per omnes arcus concentricos superiores, id est supra praecedens
+A cadentes, usque in centrum moveri potest; et quidem ita ut per cu—
+iusvis arcuum illorum punctum quodvis datum transeat: intuitu patet,
+idem simplicissime per meditullia arcuum fieri posse,
+
+Est etiam linea simplex: nain e nullius arcus meditullio tertius ra-
+mus dari pctest; quia is pei· arcus praecedentes aut sequentes ire deberet,
+in quorum quovis nonnisi unum punctum ramis duobus commune datur.
+
+8. Dicantur L lineae eiusmodiy quae ex omnibus punctis annuli primi
+utrinque aequaliter insistentes, et semper porro utrinque aequaliter, atque
+omnes circumcirca quoque per generationes aequales aequaliter deter-
+minatae sunt,
+
+Aut duntur duae tales Ly quae punctum commune habeant, aut nullae
+duze dantur, quae punctum commune habeant, Posterius fieri nequit:
+nam tum portio illa ipsius δ’, quae supra quodvis A usque ad arcum
+superiorem novi Α est, imo totum Α, innumerabilibus vicibus repetere-
+tur in ipso S‘; adeoque ,δ” uon esset quantitas finita (Tom. I. pag, 351,
+de quo plura inferius.
+
+Nempe tum (per pag. 26] sphaera S‘ circa (κζ mota, movetur tota
+L, omnibus punctis annulos se invicem excipientes describentibus.
+Quod annulus puncti cuiusvis in linea L ulterius generati ulterius
+situs sit, patet inde, quod si ab aliquo annulo sequentes aliquamdiu
+regrederentur, id aut statim post annulum centri alicuius A iuxta geue>
+rationem dictam fieret, aut post meditullium arcus alicuius supra A ge-
+nerati; prius fieri nequit, nani tum punctum aliquod ipsius L ob gene-
+rationes utrinque aequales intra, non extra praecedens A caderet; nec
+posterius fieri quit, tune euim e centro prius dicto sphaerica superficies
+exterior cum aliqua interiore aliquid commune haberet.
+
+Atque per hoc adhuc simplicius patet superficiem sphaericam, si
+nullae lineae L secarent se invicem, quantitatem finitam non esse. Potest
+enim e centro cuiusvis A in δ’ describi talis annulus interior ipso A,
+qui ,iuxta Figi qs* nec cum ibidem praecedente nec cum sequente quid-
+quam commune habeat. Quod cum per generationes aequales semper
+porro locum habeat: annulus dictus innumerabilibus vicibus repetetur.
+

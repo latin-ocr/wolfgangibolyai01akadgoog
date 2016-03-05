@@ -1,0 +1,41 @@
+208 ELEMENTA GEQMETRIAE.
+
+X.
+
+lntersactz‘ones linearum secundi ordinis, atque inde certarum aequa*
+tionum resolutio⁴
+
+Si duarum linearum L et l ordinatae fuerint Y: ngi et yzftx>,
+pro iisdem abscissis x xssin eadem abscissarum linea ex eodem puncto
+incipientibus) et eodem ordinatarum angu103 atque pro quapiam abscissa
+x' fiant ordinatae Y‘ ipsius Ly et γ’ ipsius l aequales: erit Y'ffly'20 seu
+Fth')ssf(x'J=0, et lineae L et lin extremitate communi ordinatarum
+γ’ et y' se invicem secabunt; atque ubi se invicem secabunt L et ly
+pro abscissa puncto illi respondente erit Y*y seu F(x']1 *fsszet
+
+Si igitur F(x)—f(x) ad formam
+
+adsto-caſtr¹ ÷ssxſtr² -θ- ’ . · -0-2x0 :0
+reduci queat, sitque aequatio resolvenda
+xV-e-Axtffl -ἱ- Bxssffl -ff-m-o- Kzo,
+
+&denotantibus A, B,.,. constantes cognitas, μ numerum integrum, α, β, ..
+Vero constantes indeterminatas& atque in duabus his aequationibus coeffi-
+cientes eiusdem potentia-3 aequentur: orientur aequationes ΜΖΑ, [ἷζΒἨν
+ΆΣΚ; e quibus si constantes a, b, e, . .< ad linearum L et l construo
+tionem (pro eadem abscissarum linea eodemque initio, et eodem coor-
+dinatarum anguiojr requisitae reperiantur, atque L et l construantur:
+ubicunque secuerint hee se invicem, abscissa respondens radix aequati-
+onis erit.
+
+Vocatur autem modus iste radices aequationis reperiendi constructio
+aequationumi
+
+Notandum tamen est: ex eo, quod pro certo valore ipsius x aequatio
+Yffyzo fiat, intersectionem haud sequi; potest enim tam Y quam y
+imaginarium essey sectio autem reales ordinatas requirit; fierique potest,
+ut aequatio nulla radice reali gaudeat.
+
+Exempla, Pro aequatione gradus tertii: Sit parabolae B (Fig. 187.)
+ordinata u pro abscissa t, et u‘z bt, adeoque 2:32⁴, et ordinata pro
+

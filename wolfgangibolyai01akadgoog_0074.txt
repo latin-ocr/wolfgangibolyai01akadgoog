@@ -1,0 +1,42 @@
+8 ELEMENTA GEOMETRYAE.
+
+plagam α cadat, et triangulum eirca perpendicularem ex c! ad bc simul
+cum α verti concipiatur, dum οι in β cadet, p quoque in β erit, et si
+in ρ’ cadat, erit a*b*c*pssa*c÷rb*p'. Idem patet etsi p in planum
+idem extra perpendicularem dictam cadat, atque in omni casu unum ad-
+huc dabitur punctum p‘ tale ut dictum est, nisi p in perpendicularem
+dictam cadat: tum vero erit etiam a*b*c*pss<x*c÷b»p,
+
+§. 6.
+
+Hinc passus ad omne fit: nempe complexum omnis puncti quod uni—
+cum punctorum n, b est, nempe rectam, quod item latius extensum,
+parit conceptum sequentem,
+
+Illud e spatio, quod quorumvis (luorum punctorum sui quodvis uni-
+cum punctum spatiale complectitur dicitur recta si linea sit,planum si
+superficies sit3 patebitque esse spatium quaquaversum infinitum, si por-
+tionem spatii complectatur, imo et reeta planumque per hanc definiti-
+onem infinita exhibentur; at vero nuni dentur talia, quaestio fit. Inferius
+ostendetur, rectam per quaevis duo puncta, planum per quaevis tria pun-
+cta dari⁴
+
+Cum definitio ista simul affinitatem plani eum recta exprimat, plures
+exactas quidem supprimere lieet; aliqua tamen huius generis adferre
+fas est.
+
+Forma certorum duorum punctorum unica, cuius pro omnibus punr
+etis datur tale idem punctum p, ut pro quibusvis duobus punctis α et
+b fortnae dictae sit pm‘tsswd), est si linea sit circulus, si superficies sit
+sphaera.
+
+Linea simplex certorum duorum punctorum unica est, si rediens sit,
+circulus, si non, recta.
+
+Forma alicuius puncti unica est sphaera.
+
+Elegans est plani definitio, quam Ioannes Bolyai Auctor Appendi-
+cis dedit, complexum omnis eiusmodi puncti p, ut pro certis duobus
+punctis α et b, iisdem pro omnibus p, sit yffeasspstay dicendo planum,
+sectionem duorum planorum vero rectam.
+

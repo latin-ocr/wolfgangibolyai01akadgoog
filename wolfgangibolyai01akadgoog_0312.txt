@@ -1,0 +1,41 @@
+240 ELEMENTA GEOMETRIAE
+
+superficies cylindricae, si circulis radiorum inaequalium insistam, respectu
+dicto nonnisi ut quantitates respectivae comparantur.
+
+Idem ad conumy aliasque quasvis superficies curvas applicatum de-
+monstrari nempe potest triangulis se invicem excipientibus inscriptis, ut
+nempe apices omues eorum in superficiem curvam cadant: summam
+eorum ad limitem certum tendere, si cuiusvis eorum singuli tres apices
+sibi invicem dato quovis propius veniant; limitemque eum, utcunque
+inscribantur triangula, eundem esse⁴
+
+In cono recto circulo insistente patet, triangulorum ex apice ad latera
+polygoni basi inscripti generatorum sumniam ad nDa tenderey si l)
+diametrum baseos et α dimidium lateris coni denotet*
+
+Scholion. Atque hine rete cylindri recti erit (praeter bases] rectan-
+gulam altitudinis eiusdem, quae cylindri est, rectae perimetruin baseos
+cylindri exaequanti superstructu1n; basis autem si circulus fuerit, sive
+recta dicta computatur e diametro, sive si e recta data quaeratur diame-
+tery facile construitur. Si vero alia linea sit periineter baseos, eius lonr
+gitudo computanda est, ut rectanguli basis prodeat.
+
+Κείς com· reali autem sector est, cuius centrum apicem, latus radium,
+et arcus perimetruin baseos circularis praebet. Sunt enim, si basis circu*
+lus et recta e centro ad apicem ducta ad basim perpendicularis fuerit,
+latera coni omnia aequalia, quum sint hypotenusae triangulorum rectan-
+gulorum aequalium: quod ex. gr. si pro circulo ellipsis esset centro
+eodem gaudens, minime locum haberet⁴ Basis circularis ex arcus longi-
+tudine, quae e ratione arcus ad peripheriaxn atque radio innotescity pro-
+dit; longitudo arcus enim per π divisa diametrum baseos praebet. Est
+vero angulus ad apicem eo acutior, quo minor angulus sectoris ad cen-
+trum est, et eo inagis obtusus, quo propius ad quatuor rectos angulus
+dictus accedit.
+
+Potest quoque e dato angulo ad apicem arcus sectoris, uti ex arcu
+sectoris angulus ad apicem reperiri. Sit nempe (Fig. 222.) latus coni l,
+axis α, et radius baseos sit νς dato angulo u et axe a, reperitur tam l
+quam νς eritque perimeter baseos 2771 arcui sectoris radio l scripti
+aequalis; tota peripheria esset 2l1r3 sit x quantitas quaesita talis, ut
+

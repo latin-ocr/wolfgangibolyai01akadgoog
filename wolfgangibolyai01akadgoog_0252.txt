@@ -1,0 +1,45 @@
+186 ELEMENTA GEOMETRxAE.
+
+ellipsi, recta R circa centrum ubivis in ecdem plano mota donec redeat,
+semper pro dieta r accipi queat, saitem nonnisi certus sit rectarum nu-
+merus, in quas R tales pervenit, quas pro ν sumere non liceat; ex. gr*
+pro parabola nonnisi una recta inempe axi parallelas excluditur, pro hyr
+perhola asyxnptotis parallelae itaque duae excluduntur, nempe tam in pa*
+rabola quain hyperbola limites tangentium ad puncta dabili quovis remo-
+tiora.
+
+Centro gaudere linea potest absque eo, ut diametro sensu stricto gau-
+deat (uti Fig. nonu et conversim parabola diametro sensu stricto pollens
+centro caret. Lineae piures ordinis binario altioris quoque certo diametri
+numero gaudent, imo piures centrum habent.
+
+In ellipsi et hyperbola, si recta e puncto quovis p lineae per cy me-
+ditullium axeos maioris, producatur usque in δ, ut (30ch fiat: per
+aequationem e centro patet ἶ) quoque punctum lineae esse.
+
+In parabola autem e quovis certo puncto p parabolae ad punctum in
+axe dabili quovis remotius ducta reeta eo tendit, ut axi parallela fiat;
+si igitur hoc sensu accipiatur parabolae centrum in axe omni dabili remo-
+tius, et pro recta per centrum eius ducta quaevis axi parallela inteiliga-
+tur: generaliter dici poterit, in quavis sectione conica L quamvis rectam
+per centrum ductam, praeter asyniptotos, diametrum esse; et pro quavis
+diametro ὃ chordas per eam bssectas, si δ ipsam L secety esse tangenti
+ad illud punctumy in quo δ ipsam L secat, ductae pui·allelas; aut ὃ tan-
+genti alicui paralielam esse, chordasque rectae e centro per punctum
+tactus ductae esse parallelas,
+
+Est autem pro abscissis x in diametro aequatio ellipseos e centro
+
+d² d²x²
+
+γιΞἭ-ῙῙ
+
+4 D² ’
+aequatio hyperbolae vero, si linea abscissarum secet hyperbolum, est
+
+ζμ d³
+
+ΥΞ ² Di* 4⁷ =
+
+aut pro abscissa y item e centro et ordinata x est
+

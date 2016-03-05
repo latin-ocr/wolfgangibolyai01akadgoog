@@ -1,0 +1,38 @@
+SECTIO SECUNDA. 109
+
+Estque mssfffl parallelogrammum ex b et Β eum angulo bsszz,
+uti (ἓίὲἱξ ex α et A cum angulo aAzz. Haec duo parallelogramma
+autem aequalitate terminata esse aequalia patet2 si ad latera posterioris
+ipsi A aequalia transferatur b, donec fieri potest, et ad latera prioris
+ipsi B aequalia transferatur a, donec fieri potest; nam parallelogramma
+orta sunt aequalia, uti 121, ita si plura quotquot essent: porro AkxAk;
+si a in B exacte certo nurnero adesset, patet rum β non remanere,
+neque u adessey et Α etiam certo numero continere b, quia a:B=h:A,
+atque turn pro k quoque parallelogrammum reliquis {equale adesset, At
+si adsint α et β, tunc si in latere ipsi B opposito inferiore, ex ultimo a
+dematur β, et sit ab extremitate eius parallela ad A; erit haec za, et
+tertium latus :73 ita si ex ultimo b in ἐξ dematur α, et fiat ab enre-
+mitate eius parallela ad B; erit haec :131 et triangula αβγ omnia erunt
+aequalia, per unum latus in quibusvis duobus aequale, et angulos per
+latera parallela aequales.
+
+Hinc etiam quinquelaterum ,iix-aab z alteri ρ’ςααύς nam latera et
+anguli ordine quo semet excipiunt sunt aequalia3 nam S remanet utrinque
+e diagonalibus aequalibus subtracto y; patet etiam ex a-t-sss demto β
+remanere a, uti ex b÷a demto a remanere b. Itaque parallelogram-
+mum Aa τ parallelogrammo Bb aequalitate terminata est.
+
+§A 2,
+
+Hinc patet, quod curn cuique parallelogrammi) detur aliud aequale
+angulo Z gaudens, nempe inter parallelas easdem rectis ad angulum z
+ductis ab extremitatibus baseos parallelis: dari hoc modo cuivis paral-
+lelogrammo aliud ad datum latus et angulum aequale; ita cuivis tri-
+angulo, quia hoc parallelogrammo altitudinis aequalis baseos dimidiae ,Ἰ est.
+
+Ita etiam plura quotvis parallelogramma suinmari possunt, omnia ad
+angulum Z et latus datum reducendo; adeo ut, quum Z etiam rectus
+esse possit, quaevis area, quae ad summam triangulorum reduci potest,
+in reetangulum eiusdem altitudinis summariy adeoque ad formam rectae
+reduci que-at. {Toum I. pag⁴ 27).
+

@@ -1,0 +1,45 @@
+SECTIO PRIMA. 5
+
+etis et motus, nempe si aliquid quiescat moto M; imo sphaera in loco
+sui moveri potest, quiescente centro tantum ve] etiam diametro.
+
+8. Si quid Q ex M moto hoc quiescaty dicitur M circa Q moveri.
+
+c)⁴ Porro aliqua puncta ipsius Τ possunt certo modo determinata duo
+puncta quoque denotare,
+
+a) Omni ex M locus idern duntaxat sub primo et ultimo puncto
+temporis alicuius, est reditus perfectu&
+
+b) Ipsi M loeus non idem sub certis punctis α et b ipsius T, parit
+conceptum sequentem: Si loeus non idem sit, aut habet prior eum pos*
+teriore commune aut πλοῦς si nec quidquam aut utriusque indivenibsse
+sit communey dicitur M totaliter emotum,
+
+c) Si pro quovis puncto a ipsius T sit talis pars continua eius ipsum
+ιι complectens, ut sub nullis duobus punctis huius sit locus idem ipsius
+M aut portionis ullius eius, turn Mporro moveri dicitur.
+
+§. 5.
+Prima operatio motus intuitiva.
+
+Variae hinc exoriuntur quaestiones:
+
+Ι. Potestne punctum p undevis moveri usquequo in quodvis datum
+spatii punctum Mperveniat, et quidem ita, ut quidvis in quod cadit
+seeum ferat? et p qualern viam describit?
+
+Intuims ostendit p, quidvis in quod cadit secum ferendo, via qua-
+cunque p cum M connectente, limo innumerabilibus viis) moveri posse
+usque in M et viam quamvis eius esse lineam.
+
+Et haec est prima operatio molus intuitiva.
+
+Linea si e nullo eius puncto duabus plures puncti viat in ea dentur,
+dicitur simplexg et superficies, cuius nullarum trium portionum qua-
+tumvis binarum sectio endem linea simplex datur, dicitur simplex.
+
+Linea simplex dicitur z'n se rediem, si punctum in ea motum in
+locum primum ita redire queat, ut antea in nullo loco iam habito
+fuerit.
+

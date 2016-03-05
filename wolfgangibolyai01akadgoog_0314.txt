@@ -1,0 +1,42 @@
+248 ELEMENTA GEOMETRIAE,
+
+et pariter conus circulo oblique insistens nonnisi conus rectus ellipsi
+insistens oblique sectus est: unde retia tam cylindri quam coni obliqui,
+sive circulo sive ellipsi acl datum angulum insistentium, reperiuntur,
+
+Nempe cylindri recti circulo, imo et ellipsi insistentis rete construitur
+ipag. 245¹, Coni recti ellipsi insistentis quoque rete construi potest. Nam
+(Fig, 223.) sit ellipseos centrum c, sitque εἰ) dimidium axis minoris, et
+21( dimidium axis maioris, sitque cc'l 210 et ε’ apex coni, moveatur εδ
+usque in 210 fiet ubique triangulum ad c rectangulum, cuius cathetus e
+c usque ad ellipsin crescet usque ad Ue, et ubique determinari poterit,
+alter cathetus vero α’ erit,· unde hypotenusa, nempe latus coni in illo
+loco, reperitur, adeoque etiam triangula se invicem excipientia, quorum
+bases chordae et latera hypotenusae dictae sunt, adeoque rete cum errore
+quantovis minore construi poterit.
+
+Si vero conus five] cylinderl rectus constructus fuerit: sit *Fig.22441
+basis 212³OED03 in plano tabulae, atque 215,ss sit tangens ad punctum 21,
+circa quam planum e basi elevetur ad certum angulum u, atque planum
+baseos sit P, et planum elevatum dicatur j).
+
+Quamvis res summa generalitate exponi posset, simpliciora proferre
+sufficiat.
+
+Sit prius cylinder vel conus rectus ellipsi insistens, cuius axis minor
+Zmzb, et axis maior OEOE, centrum l', et perpendicularis ad basim ex
+l? usque ad basim cylindri superiorem *aut apicem conii sit pf, secetque
+planum p perpendicularem dictam Pp in Γ, Innotescet ΕΓ in triangulo ad
+ἵ rectangulo 211³? ex angulo u et catheto 211²⁴
+
+Sit iam e fine Β arcus 2123 ad P erecta perpendicularis usque ad J),
+cadet haec manifesto in superficiem cylindrig sit Β punctum eius cum p
+commune.
+
+Patet quod si cylindri rete rectangulare sit qug. 2252), cuius basis
+21'02 z perimetro baseos, atque pro arcu 213 Ξ rectae 21'8' construatur
+ad 21'23‘ perpendicularis 23'b'': Bb', et quum hoc cum punctis perimetri
+baseos quam proximis suscipi queat: rete cum errore quantovis minore
+construi possit, si ex ΞΓ incipiendo usque ad (Q rectae ducantur zib 21'
+ad b'' et a Η ad c'' 55, atque pars infra lianc lineam cadens resecetur.
+
